@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(14, 201, 226);
+    background-image: url("./images/mountains.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+/* COMMENT */
+
+
+/* Login Area - my description */
+
+/* zapis třídy = class  */
+
+.loginArea {
+  display: block;
+   min-width: 375px;
+   min-height: 667px;
+   max-width: 375px;
+   max-height: 667px;
+  background-color: rgba(0, 0, 0, 0.582);
+  color: yellow;
+   margin: 0 auto;
+   margin-top: 35px;
+}
+.loginArea h1 {
+  color: rgb(255, 255, 255);
+  margin: 8px;
+  font-size: 30px;
+  margin-top: 45px;
+}
+.loginArea p {
+  color: rgb(255, 255, 255);
+  margin: 12px;
+  border: 2px solid white;
+  padding: 10px;
+  text-align: center;
+  margin-top: 60px;
+
+}
